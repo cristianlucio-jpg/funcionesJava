@@ -39,9 +39,9 @@ Forma parte de un portafolio académico y profesional orientado a la práctica d
 ```text
 funcionesJava/
 ├── src/
-│   ├── ejercicio01/calcularFactorial.java
-│   ├── ejercicio02/calcularPotencia.java
-│   └── ejercicio03/calcularPromedio.java
+│   ├── ejercicio01CalcularFactorial/calcularFactorial.java
+│   ├── ejercicio02CalcularPotencia/calcularPotencia.java
+│   └── ejercicio03CalcularPotencia/calcularPromedio.java
 └── README.md
 
 Autor
